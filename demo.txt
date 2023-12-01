@@ -1,0 +1,2 @@
+hello there, in this file i am learning to the git hub commands for exams
+1.now i want to check the git push command for experiment
